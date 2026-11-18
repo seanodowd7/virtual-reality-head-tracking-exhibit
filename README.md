@@ -31,3 +31,6 @@ Resistors
 Power bank
 
 Batteries
+
+
+![image alt](https://github.com/seanodowd7/virtual-reality-head-tracking-exhibit/blob/96725ef145160e08684952c86ae095c4834e9983/IMG_8891.jpeg)
