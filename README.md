@@ -32,5 +32,6 @@ Power bank
 
 Batteries
 
+[![Watch the demo](images/demo-thumbnail.png)](https://github.com/seanodowd7/virtual-reality-head-tracking-exhibit/blob/b4aaa9b7cb9068d349f962a5d01747ce57763723/IMG_8895.MOV)
 
 ![image alt](https://github.com/seanodowd7/virtual-reality-head-tracking-exhibit/blob/96725ef145160e08684952c86ae095c4834e9983/IMG_8891.jpeg)
